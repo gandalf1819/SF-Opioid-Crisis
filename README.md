@@ -23,7 +23,7 @@ Safe injection sites are medically supervised facilities designed to provide a h
 
 Our data is collected from the San Francisco police department’s database. It is his- torical data regarding crimes from 2003 to May 2018. The dataset has 13 columns.
 
-<<Include URL>>
+![Dataset](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/Dataset-information.png)
 
 ## Analysis Approach:
 
