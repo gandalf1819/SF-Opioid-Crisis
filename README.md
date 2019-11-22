@@ -34,6 +34,12 @@ Our data is collected from the San Francisco police department’s database. It 
 5. Create cluster-maps between different types of drugs and neighborhoods. Normalize or standardize data as required
 6. Encode the data to a transactional form - execute Apriori and FP-growth to find interesting patterns (i.e association rules). Comparative study : FP- Growth vs Apriori
 
+## Team:
+
+* [Kartikeya Shukla](https://github.com/kart2k15)
+* [Chinmay Wyawahare](https://github.com/gandalf1819)
+* [Hao Shu](https://github.com/hs3812)
+
 ## References:
 
 1. [https://www.kqed.org/news/11766169/san-francisco-fentanyl-deaths-up-almost-150](https://www.kqed.org/news/11766169/san-francisco-fentanyl-deaths-up-almost-150)
