@@ -36,6 +36,38 @@ Our data is collected from the San Francisco police department’s database. It 
 5. Create cluster-maps between different types of drugs and neighborhoods. Normalize or standardize data as required
 6. Encode the data to a transactional form - execute Apriori and FP-growth to find interesting patterns (i.e association rules). Comparative study : FP- Growth vs Apriori
 
+## Results:
+
+### Distribution of categories of crimes from 2003 to 2018:
+
+![Picture-1](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture1.png)
+
+**After Normalization**
+
+![Picture-2](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture2.png)
+
+### Cluster-maps b/w categories of crimes vs neighborhoods:
+
+![Picture-3](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture3.png)
+
+![Picture-4](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture4.png)
+
+### Cluster-maps b/w different opioids & neighborhoods:
+
+![Picture-9](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture9.png)
+
+![Picture-5](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture5.png)
+
+### Specific Opioid Distributions across time:
+
+![Picture-6](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture6.png)
+
+![Picture-7](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture7.png)
+
+### Opioid Distributions across years:
+
+![Picture-8](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture8.png)
+
 ## Team:
 
 * [Kartikeya Shukla](https://github.com/kart2k15)
