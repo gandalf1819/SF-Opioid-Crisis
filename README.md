@@ -6,7 +6,7 @@ San Francisco (SF) has a long history of pushing the envelope on progressive pub
 
 ### Safe injection sites (SIS):
 
-Safe injection sites are medically supervised facilities designed to provide a hy- gienic and stress-free environment in which individuals are able to consume illicit recreational drugs intravenously and reduce nuisance from public drug use. They are part of a harm reduction approach towards drug problems. North America’s first SIS Insite opened in the Downtown Eastside (DTES) neighborhood of Vancouver in 2003.
+Safe injection sites are medically supervised facilities designed to provide a hygienic and stress-free environment in which individuals are able to consume illicit recreational drugs intravenously and reduce nuisance from public drug use. They are part of a harm reduction approach towards drug problems. North America’s first SIS Insite opened in the Downtown Eastside (DTES) neighborhood of Vancouver in 2003.
 
 ## Potential Questions:
 
