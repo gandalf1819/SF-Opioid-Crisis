@@ -10,6 +10,9 @@ San Francisco (SF) has a long history of pushing the envelope on progressive pub
 
 Safe injection sites are medically supervised facilities designed to provide a hygienic and stress-free environment in which individuals are able to consume illicit recreational drugs intravenously and reduce nuisance from public drug use. They are part of a harm reduction approach towards drug problems. North America’s first SIS Insite opened in the Downtown Eastside (DTES) neighborhood of Vancouver in 2003.
 
+Check out the **Medium** post for the complete analysis published in **Towards Data Science** here:<br> 
+https://towardsdatascience.com/san-franciscos-opioid-crisis-and-drug-problem-and-effects-on-public-safety-1ffad5040e0f
+
 ## Potential Questions:
 
 1. Comparing types of crime across different neighborhoods. What are the top 5 neighborhoods, where you can get assaulted? Do certain “pairs” of crime frequently co-occur together in a certain neighborhood?
