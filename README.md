@@ -73,6 +73,12 @@ Our data is collected from the San Francisco police department’s database. It 
 
 ![Picture-8](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/results/Picture8.png)
 
+## Interactive Visualizations
+
+Check out interactive visualizations on the Opioid dataset in Tableau:
+
+https://public.tableau.com/profile/chinmaynw#!/vizhome/SFDrugOpioidCrisis/Sheet1
+
 ## Team:
 
 * [Kartikeya Shukla](https://github.com/kart2k15)
