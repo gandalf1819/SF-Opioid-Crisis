@@ -4,6 +4,11 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen) 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/3/34/Blue_Python_3.6_Shield_Badge.svg)
 
+<p align="center">
+    <a href="https://www.buymeacoffee.com/wyavs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35px"></a>
+</p>
+
+
 ![San Francisco](https://github.com/gandalf1819/SF-Opioid-Crisis/blob/master/sf-crisis.png)
 
 San Francisco (SF) has a long history of pushing the envelope on progressive public health solutions, including medical cannabis and needle exchange, before either was legal or broadly embraced. It is so out of proportion, that California passed a bill allowing SF to open Safe Injection Sites (SIS).
